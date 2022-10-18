@@ -111,7 +111,7 @@ a{
             }
 
     .section {
-        background: #f7f7f7;
+        background: #828282;
         display: flex;
     }
 
@@ -123,6 +123,7 @@ a{
                  
             }
                 .article {
+
                     flex: 1 1 40%;
                     color: #444;
                     font-size: 13px;
